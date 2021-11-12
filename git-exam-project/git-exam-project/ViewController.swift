@@ -11,11 +11,18 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("------------------")
+        print("iOS 짱!!")
+        
+        displayIOSPart()
         // Do any additional setup after loading the view.
         print("yujin said hihihihi")
         print("written by yujinnee")
     }
 
+    func displayIOSPart(){
+        print("iOS 짱짱!!!!")
+    }
 
 }
 
