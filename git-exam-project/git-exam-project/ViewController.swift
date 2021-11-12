@@ -11,11 +11,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hello world")
         print("------------------")
         print("iOS 짱!!")
+        
+        displayIOSPart()
     }
 
+    func displayIOSPart(){
+        print("iOS 짱짱!!!!")
+    }
 
 }
 
