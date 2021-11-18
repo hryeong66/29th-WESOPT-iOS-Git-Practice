@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("------------------")
+        print("실험용 추가 프린트문")
         print("ㅋㅂㅇ? ㅋㅂㅇ?")
         
         displayIOSPart()
