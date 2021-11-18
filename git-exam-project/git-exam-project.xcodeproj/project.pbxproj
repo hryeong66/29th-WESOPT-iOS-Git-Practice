@@ -14,6 +14,7 @@
 		3CFB1B5E273E1E09005EB938 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CFB1B5D273E1E09005EB938 /* Assets.xcassets */; };
 		3CFB1B61273E1E09005EB938 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CFB1B5F273E1E09005EB938 /* LaunchScreen.storyboard */; };
 		3CFB1B6D273E6EC6005EB938 /* PartDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB1B6C273E6EC6005EB938 /* PartDataModel.swift */; };
+		EB049B872746345C009C5068 /* kingninenajeoldaemoteegyu.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB049B862746345C009C5068 /* kingninenajeoldaemoteegyu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3CFB1B60273E1E09005EB938 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CFB1B62273E1E09005EB938 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CFB1B6C273E6EC6005EB938 /* PartDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartDataModel.swift; sourceTree = "<group>"; };
+		EB049B862746345C009C5068 /* kingninenajeoldaemoteegyu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kingninenajeoldaemoteegyu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				3CFB1B54273E1E06005EB938 /* AppDelegate.swift */,
 				3CFB1B56273E1E06005EB938 /* SceneDelegate.swift */,
 				3CFB1B58273E1E06005EB938 /* ViewController.swift */,
+				EB049B862746345C009C5068 /* kingninenajeoldaemoteegyu.swift */,
 				3CFB1B5A273E1E06005EB938 /* Main.storyboard */,
 				3CFB1B5D273E1E09005EB938 /* Assets.xcassets */,
 				3CFB1B5F273E1E09005EB938 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB049B872746345C009C5068 /* kingninenajeoldaemoteegyu.swift in Sources */,
 				3CFB1B6D273E6EC6005EB938 /* PartDataModel.swift in Sources */,
 				3CFB1B59273E1E06005EB938 /* ViewController.swift in Sources */,
 				3CFB1B55273E1E06005EB938 /* AppDelegate.swift in Sources */,
