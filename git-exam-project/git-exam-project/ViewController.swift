@@ -15,11 +15,16 @@ class ViewController: UIViewController {
         print("킹받 짱")
         print("우리집은 초역세권")
         
+        hyunjuzzang()
         displayIOSPart()
     }
 
     func displayIOSPart(){
         print("iOS 짱짱!!!!")
+    }
+    
+    func hyunjuzzang() {
+        print("현주짱")
     }
 
 }
