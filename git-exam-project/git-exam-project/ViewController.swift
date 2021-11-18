@@ -16,11 +16,15 @@ class ViewController: UIViewController {
         print("아요 짱~~ ^^")
         
         displayIOSPart()
+        displyaMessage()
     }
 
     func displayIOSPart(){
         print("iOS 짱짱!!!!")
     }
+    
+    func displyaMessage() {
+        print("display a message")
+    }
 
 }
-
