@@ -17,11 +17,17 @@ class ViewController: UIViewController {
         print("킹받아요 짱짱!!")
         
         displayIOSPart()
+        displayKingIOS()
     }
 
     func displayIOSPart(){
         print("iOS 짱짱!!!!")
     }
+    
+    func displayKingIOS(){
+        print("킹받아요 짱!!")
+    }
+    
 
 }
 
