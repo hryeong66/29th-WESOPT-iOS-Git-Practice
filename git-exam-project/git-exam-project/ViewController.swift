@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         print("아요 짱!!")
         print("은주 짱!!")
         
+        print("킹받아요 짱!!")
+        print("킹받아요 짱짱!!")
+        
         displayIOSPart()
         displayEunju()
     }
