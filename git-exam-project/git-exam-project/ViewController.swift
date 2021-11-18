@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("------------------")
-        print("iOS 짱!!")
+        print("킹받 짱")
+        print("우리집은 초역세권")
         
         displayIOSPart()
     }
