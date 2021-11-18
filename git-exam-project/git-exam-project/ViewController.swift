@@ -15,11 +15,15 @@ class ViewController: UIViewController {
         print("ㅋㅂㅇ? ㅋㅂㅇ?")
         
         displayIOSPart()
+        amugefunction()
     }
 
     func displayIOSPart(){
         print("iOS 짱짱!!!!")
     }
-
+    
+    func amugefunction(){
+        print("ㅋㅂㅇㅇ ㅎㅇㅌ")
+    }
 }
 
