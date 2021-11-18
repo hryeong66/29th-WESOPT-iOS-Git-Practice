@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C2DFC29274634550007F03F /* KingiOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2DFC28274634550007F03F /* KingiOS.swift */; };
 		3CFB1B55273E1E06005EB938 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB1B54273E1E06005EB938 /* AppDelegate.swift */; };
 		3CFB1B57273E1E06005EB938 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB1B56273E1E06005EB938 /* SceneDelegate.swift */; };
 		3CFB1B59273E1E06005EB938 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFB1B58273E1E06005EB938 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C2DFC28274634550007F03F /* KingiOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KingiOS.swift; sourceTree = "<group>"; };
 		3CFB1B51273E1E06005EB938 /* git-exam-project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "git-exam-project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CFB1B54273E1E06005EB938 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3CFB1B56273E1E06005EB938 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				3CFB1B5F273E1E09005EB938 /* LaunchScreen.storyboard */,
 				3CFB1B62273E1E09005EB938 /* Info.plist */,
 				3CFB1B6C273E6EC6005EB938 /* PartDataModel.swift */,
+				3C2DFC28274634550007F03F /* KingiOS.swift */,
 				F2CA50C82746346C00666371 /* Hyunju.swift */,
 			);
 			path = "git-exam-project";
@@ -147,6 +150,7 @@
 				F2CA50C92746346C00666371 /* Hyunju.swift in Sources */,
 				3CFB1B6D273E6EC6005EB938 /* PartDataModel.swift in Sources */,
 				3CFB1B59273E1E06005EB938 /* ViewController.swift in Sources */,
+				3C2DFC29274634550007F03F /* KingiOS.swift in Sources */,
 				3CFB1B55273E1E06005EB938 /* AppDelegate.swift in Sources */,
 				3CFB1B57273E1E06005EB938 /* SceneDelegate.swift in Sources */,
 			);

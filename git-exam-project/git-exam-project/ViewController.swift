@@ -14,18 +14,24 @@ class ViewController: UIViewController {
         print("^___b")
         print("킹받 짱")
         print("우리집은 초역세권")
+        print("안녕하세요?")
+    
         
-        hyunjuzzang()
+        print("킹받아요 짱!!")
+        print("킹받아요 짱짱!!")
+        
         displayIOSPart()
+        displayKingIOS()
     }
 
     func displayIOSPart(){
         print("iOS 짱짱!!!!")
     }
     
-    func hyunjuzzang() {
-        print("현주짱")
+    func displayKingIOS(){
+        print("킹받아요 짱!!")
     }
+    
 
 }
 
